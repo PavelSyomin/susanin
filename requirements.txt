@@ -1,6 +1,6 @@
 requests
 pandas
 natasha
-sklearn
+scikit-learn
 thefuzz
 python-Levenshtein-wheels
