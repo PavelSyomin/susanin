@@ -12,9 +12,9 @@ setuptools.setup(
     author_email='m.vasilevskaia@cpur.ru',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/CAG-ru/susanin',
+    url='https://github.com/PavelSyomin/susanin',
     project_urls={
-        "Bug Tracker": "https://github.com/CAG-ru/susanin/issues"
+        "Bug Tracker": "https://github.com/PavelSyomin/susanin/issues"
     },
     license='Apache',
     include_package_data=True,
